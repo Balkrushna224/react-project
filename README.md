@@ -1,7 +1,7 @@
 # React CRUD Application ⚛️
 
-A dynamic CRUD application built using React.js
-with component-based architecture.
+This project primarily focuses on implementing core CRUD operations and understanding React state management.  
+More focus is on functionality, data handling, and logic instead of complex UI design.
 
 ## 🛠️ Tech Stack
 - React.js
@@ -17,10 +17,13 @@ with component-based architecture.
 
 ## 🚀 Concepts Used
 - React Functional Components
-- useState Hook
-- useEffect Hook
-- Props & State
-- Dynamic rendering
+- useState Hook (State Management)
+- useEffect Hook (Side Effects)
+- LocalStorage (Data Persistence)
+- CRUD Operations (Add, Edit, Delete)
+- Event Handling (onClick, onChange)
+- Dynamic Rendering (map function)
+- Conditional Logic (input validation)
 
 ## 👨‍💻 Developer
 Balkrushna Amasara
