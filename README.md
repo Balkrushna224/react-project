@@ -18,6 +18,7 @@ with component-based architecture.
 ## 🚀 Concepts Used
 - React Functional Components
 - useState Hook
+- useEffect Hook
 - Props & State
 - Dynamic rendering
 
